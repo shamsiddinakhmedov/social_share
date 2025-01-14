@@ -1,12 +1,18 @@
+package example.android
+
 buildscript {
-    ext.kotlin_version = '1.5.31'
+    ext.kotlin_version = '2.0.0'
     repositories {
         google()
         jcenter()
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:7.0.2'
+        classpath 'com.android.tools.build:gradle:8.8.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 }
