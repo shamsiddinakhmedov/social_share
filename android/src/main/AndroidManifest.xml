@@ -1,12 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.shekarmudaliyar.social_share"
-    android:label="@string/all_app_name"
-    tools:replace="allowBackup, label">
+xmlns:tools="http://schemas.android.com/tools"
+package="com.shekarmudaliyar.social_share">
 
-    <meta-data
-        android:name="flutterEmbedding"
-        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-        android:value="2" />
-    <application android:name="android.support.multidex.MultiDexApplication" />
+<meta-data
+    android:name="flutterEmbedding"
+    android:value="2" />
+<application android:name="android.support.multidex.MultiDexApplication" />
 </manifest>
