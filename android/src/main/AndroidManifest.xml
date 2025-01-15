@@ -5,7 +5,8 @@
     <meta-data
         android:name="flutterEmbedding"
         android:value="2" />
+
     <application
-        android:name="android.support.multidex.MultiDexApplication"
-        tools:replace="android:name" />
+        android:name="android.app.Application"
+        tools:replace="android:name"></application>
 </manifest>
