@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d284a3b7-6ce1-4c0f-9d83-fa9a0ddbc603" name="Default Changelist" comment="coreLibraryDesugaring">
+    <list default="true" id="d284a3b7-6ce1-4c0f-9d83-fa9a0ddbc603" name="Default Changelist" comment="manifest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736862481771</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="manifest">
+      <option name="closed" value="true" />
+      <created>1736863493387</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736863493387</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -298,7 +305,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change version kotlin" />
     <MESSAGE value="coreLibraryDesugaring" />
-    <option name="LAST_COMMIT_MESSAGE" value="coreLibraryDesugaring" />
+    <MESSAGE value="manifest" />
+    <option name="LAST_COMMIT_MESSAGE" value="manifest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/social_share.dart">
