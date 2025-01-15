@@ -8,5 +8,5 @@
 
     <application
         android:name="android.app.Application"
-        tools:replace="android:name"></application>
+        tools:replace="android:name" />
 </manifest>
