@@ -1,9 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:tools="http://schemas.android.com/tools"
-package="com.shekarmudaliyar.social_share">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.shekarmudaliyar.social_share">
 
-<meta-data
-    android:name="flutterEmbedding"
-    android:value="2" />
-<application android:name="android.support.multidex.MultiDexApplication" />
+    <meta-data
+        android:name="flutterEmbedding"
+        android:value="2" />
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        tools:replace="android:name" />
 </manifest>
